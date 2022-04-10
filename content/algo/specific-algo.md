@@ -6,10 +6,10 @@ img: blog-2.jpg
 ---
 # Day One
 
-# River Sizes
+## River Sizes
+![](img/2022-04-10-19-29-15.png)
 
-```
-
+```javascript
         function riverSizes(matrix) {
 
             const sizes = [];
@@ -55,6 +55,7 @@ img: blog-2.jpg
             return unvisitedNeighbors;
         }
 ```
+
 # Day Two 
 
 # Day Three

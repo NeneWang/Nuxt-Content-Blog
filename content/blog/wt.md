@@ -1,7 +1,7 @@
 ---
-title: First Week
-description: First Programming Week
-slug: w1
+title: Template Week
+description: Template for blogs
+slug: wt
 img: blog-2.jpg
 ---
 # Day One
