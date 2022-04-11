@@ -1,6 +1,6 @@
 <template>
   <div class="home-page">
-	  <h2>Latest Posts</h2>
+	  <h2>Weekly Posts</h2>
 	  <div class="articles">
 		  <div class="article" v-for="article of articles" :key="article">
 			  <nuxt-link :to="{ name: 'slug', params: { slug: article.slug } }">
