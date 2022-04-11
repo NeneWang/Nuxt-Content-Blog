@@ -2,7 +2,7 @@
 title: Template Week
 description: Template for blogs
 slug: wt
-img: blog-2.jpg
+img: zelda.png
 ---
 # Day One
 
