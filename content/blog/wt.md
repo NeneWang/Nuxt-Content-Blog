@@ -9,7 +9,6 @@ img: zelda.png
 # River Sizes
 
 ```
-
         function riverSizes(matrix) {
 
             const sizes = [];
